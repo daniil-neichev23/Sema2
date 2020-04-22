@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/%D0%A5%D0%BE%D0%B7%D1%8F%D0%B8%D0%BD/sema.xsd">
+	
+	
+	<recipe id="recipe_0">
+		
+		
+		<name>Air Fryer Chicken Taquitos</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.83</rating>
+		
+		
+		<description>Air-fried taquitos are quick and easy to make at home and healthier than deep-fried store-bought ones.</description>
+		
+		
+		<author value="username">Yoly</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_1">
+		
+		
+		<name>Slow-Cooker Corned Beef and Cabbage  </name>
+		
+		
+		<num_of_reviews>1412</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.61</rating>
+		
+		
+		<description>Slow cook your St. Patrick's Day corned beef dinner, and celebrate the easy way.</description>
+		
+		
+		<author value="username">LUSYRSGIRL</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_2">
+		
+		
+		<name>Biscuits and Gravy Casserole</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.6</rating>
+		
+		
+		<description>Biscuits, eggs, gravy, sausage, and Cheddar cheese are baked together using this biscuits and gravy casserole recipe for the ultimate comfort food.</description>
+		
+		
+		<author value="username">Angela</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_3">
+		
+		
+		<name>Best Brownies</name>
+		
+		
+		<num_of_reviews>9613</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.54</rating>
+		
+		
+		<description>Cakey on the outside and fudgy in the middle, this easy brownie recipe really is the best! Done in an hour.</description>
+		
+		
+		<author value="username">Angie</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_4">
+		
+		
+		<name>Instant Pot® Shepherd's Pie</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.62</rating>
+		
+		
+		<description>This family friendly shepherd's pie uses ground beef (instead of the traditional lamb) and your Instant Pot(R) or multi-cooker pressure cooker to prepare the filling and potatoes.</description>
+		
+		
+		<author value="username">fabeverydayblog</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_5">
+		
+		
+		<name>Fluffy Pancakes</name>
+		
+		
+		<num_of_reviews>11458</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.82</rating>
+		
+		
+		<description>Tall, fluffy pancakes make the best breakfast, especially when there's plenty of butter and syrup. Make it extra special with berries and whipped cream!</description>
+		
+		
+		<author value="username">kris</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_6">
+		
+		
+		<name>Grilled Apple and Swiss Cheese Sandwich</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.24</rating>
+		
+		
+		<description>My mother taught me this recipe, and it has become one of my favorite quick meals. I find that Granny Smith apples work best, as well as a crunchy seed bread.</description>
+		
+		
+		<author value="username">Nikkiling</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_7">
+		
+		
+		<name>Easy Chicken Marsala</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.37</rating>
+		
+		
+		<description>Chicken breasts are sauteed, then braised in Marsala wine and cream with mushrooms and green onion. Chicken Marsala simplified!</description>
+		
+		
+		<author value="username">sal</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_8">
+		
+		
+		<name>Chicken Parmesan</name>
+		
+		
+		<num_of_reviews>2480</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.82</rating>
+		
+		
+		<description>A classic Italian dish prepared with tomato sauce and mozzarella, with a few additions by Chef John. Sure to impress your friends and family!</description>
+		
+		
+		<author value="username">Chef John</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_9">
+		
+		
+		<name>Baja Pot Roast</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.29</rating>
+		
+		
+		<description>This kicked-up Baja-inspired pot roast delivers an explosion of Southwestern flavor with every bite.</description>
+		
+		
+		<author value="username">Charlize Jamieson</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_10">
+		
+		
+		<name>Good Old Fashioned Pancakes</name>
+		
+		
+		<num_of_reviews>12351</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.59</rating>
+		
+		
+		<description>Make delicious, fluffy pancakes from scratch. This recipe uses 7 ingredients you probably already have.</description>
+		
+		
+		<author value="username">dakota kelly</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_11">
+		
+		
+		<name>Corned Beef and Cabbage I</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.62</rating>
+		
+		
+		<description>This traditional Irish dish is the centerpiece for St. Patrick's Day. Corned beef and cabbage simmer with potatoes and carrots for a hearty dinner.</description>
+		
+		
+		<author value="username">Laria Tabul</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_12">
+		
+		
+		<name>Easy Meatloaf</name>
+		
+		
+		<num_of_reviews>5781</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.58</rating>
+		
+		
+		<description>This easy meatloaf recipe is one of our best--made over 7,000 times and never disappoints! This no-fail meatloaf makes 8 servings.</description>
+		
+		
+		<author value="username">Janet Caldwell</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_13">
+		
+		
+		<name>Crispy and Tender Baked Chicken Thighs</name>
+		
+		
+		<num_of_reviews>1045</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.64</rating>
+		
+		
+		<description>Seasoned with a simple spice blend, these delicious baked chicken thighs yield crispy yet tender, succulent results!</description>
+		
+		
+		<author value="username">Nicole Burdett</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_14">
+		
+		
+		<name>Stuffed Peppers My Way</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.61</rating>
+		
+		
+		<description>Roasted green bell peppers are stuffed with feta cheese and a mixture of rice and green onions.</description>
+		
+		
+		<author value="username">Sandy</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_15">
+		
+		
+		<name>Better-Than-Olive Garden® Alfredo Sauce </name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.61</rating>
+		
+		
+		<description>Creamy and rich Alfredo sauce that some may say is better than the famous Italian restaurant chain is quick and easy to make.</description>
+		
+		
+		<author value="username">str0ngwarri0r</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_16">
+		
+		
+		<name>Lasagna Alfredo Roll Ups</name>
+		
+		
+		<num_of_reviews>0</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.49</rating>
+		
+		
+		<description>Impress dinner guests with these picture-perfect portions of lasagna. Roll up cooked noodles with a spinach/ricotta filling and bake with a blanket of creamy rich Alfredo sauce.</description>
+		
+		
+		<author value="username">MARBALET</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_17">
+		
+		
+		<name>Easy Mexican Casserole</name>
+		
+		
+		<num_of_reviews>1734</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.41</rating>
+		
+		
+		<description>This Mexican casserole recipe made with layers of tortilla chips, beef, and salsa makes a quick and easy dish that will please the whole family.</description>
+		
+		
+		<author value="username">ANDREALF63</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_18">
+		
+		
+		<name>To Die For Blueberry Muffins</name>
+		
+		
+		<num_of_reviews>10303</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.64</rating>
+		
+		
+		<description>Extra big blueberry muffins are topped with a sugary-cinnamon crumb mixture in this souped-up blueberry muffin recipe.</description>
+		
+		
+		<author value="username">Colleen</author>
+		
+	
+	</recipe>
+	
+	
+	<recipe id="recipe_19">
+		
+		
+		<name>Slow Cooker Chicken Stroganoff</name>
+		
+		
+		<num_of_reviews>3189</num_of_reviews>
+		
+		
+		<rating max_value="5.00">4.4</rating>
+		
+		
+		<description>Ultra creamy with cream cheese and cream soup, this crock pot dinner comes together quickly with the addition of chicken and Italian salad dressing mix.</description>
+		
+		
+		<author value="username">JUDI ANN</author>
+		
+	
+	</recipe>
+	
+
+	<recipe id="recipe_20">
+		<name>Ratatouille</name>
+		<num_of_reviews>1675</num_of_reviews>
+		<rating max_value="5.00">4.85</rating>
+		<description>National French dish...</description>
+		<author value="username">Neichev</author>
+	</recipe>
+</list>
